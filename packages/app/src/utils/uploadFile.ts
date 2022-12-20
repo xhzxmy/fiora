@@ -35,7 +35,7 @@ export function getOSSFileUrl(url: string | number = '', process = '') {
         return `https:${url}`;
     }
     if (url.startsWith('/')) {
-        return `https://fiora.suisuijiang.com${url}`;
+        return `https://nocheatplus.cf${url}`;
     }
     return `${url}`;
 }

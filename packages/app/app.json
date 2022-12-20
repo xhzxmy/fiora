@@ -11,8 +11,12 @@
       "bundleIdentifier": "com.suisuijiang.fiora",
       "buildNumber": "1.1.4",
       "infoPlist": {
-        "LSApplicationQueriesSchemes": ["wxp"],
-        "CFBundleLocalizations" : ["zh_CN"],
+        "LSApplicationQueriesSchemes": [
+          "wxp"
+        ],
+        "CFBundleLocalizations": [
+          "zh_CN"
+        ],
         "CFBundleDevelopmentRegion": "zh_CN"
       }
     },
@@ -23,6 +27,11 @@
     },
     "updates": {
       "enabled": false
+    },
+    "extra": {
+      "eas": {
+        "projectId": "de70d320-5f46-4e4c-a2ec-28e23f01214c"
+      }
     }
   }
 }

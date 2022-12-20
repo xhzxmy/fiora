@@ -38,7 +38,7 @@ const options = {
     transports: ['websocket'],
 };
 
-const host = 'http://10.132.67.127:9200';
+const host = 'https://nocheatplus.cf';
 const socket = IO(host, options);
 
 function fetch<T = any>(

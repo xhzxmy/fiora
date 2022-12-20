@@ -128,7 +128,7 @@ function Other() {
                     <ListItem
                         icon
                         onPress={() =>
-                            Linking.openURL('https://fiora.suisuijiang.com')
+                            Linking.openURL('https://nocheatplus.cf')
                         }
                     >
                         <Body>
